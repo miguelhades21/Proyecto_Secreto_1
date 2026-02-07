@@ -192,7 +192,7 @@ body {
 
 .slider::-moz-range-thumb:hover {
     transform: scale(1.1);
-    box-shadow: 0 4px 15px rgba(255, 71, 87, 0.4);
+    box-shadow: 0 4px 15px rgba(14, 14, 82, 0.4);
 }
 
 #extraLove {
@@ -202,17 +202,17 @@ body {
     display: block;
     padding: 5px 10px;
     border-radius: 10px;
-    background: rgba(255, 107, 107, 0.1);
-    text-shadow: 0 2px 4px rgba(255, 71, 87, 0.2);
+    background: rgba(14, 14, 82, 0.1);
+    text-shadow: 0 2px 4px rgba(14, 14, 82, 0.2);
     transition: all 0.3s ease;
     margin-top: 5px;
 }
 
 #extraLove.super-love {
-    background: rgba(255, 107, 107, 0.2);
+    background: rgba(14, 14, 82, 0.2);
     font-size: 1.2em;
     padding: 8px 15px;
-    box-shadow: 0 4px 15px rgba(255, 71, 87, 0.2);
+    box-shadow: 0 4px 15px rgba(14, 14, 82, 0.2);
 }
 
 #loveValue {
