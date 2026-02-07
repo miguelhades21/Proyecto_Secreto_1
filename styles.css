@@ -196,13 +196,13 @@ body {
 }
 
 #extraLove {
-    color: #449dd1;                              /*Color 5 - Twilights*/ 
+    color: #0E0E52;                              /*Color texto de los cuadros - Color 5 - Twilights*/ 
     font-weight: bold;
     animation: bounce 0.5s infinite alternate;
     display: block;
     padding: 5px 10px;
     border-radius: 10px;
-    background: rgba(14, 14, 82, 0.1);            /*Color 5 - Twilights*/
+    background: rgba(68, 157, 209, 0.1);            /*Color del fondo del wow tanto me quieres Color 2*/
     text-shadow: 0 2px 4px rgba(14, 14, 82, 0.2); /*Color 5 - Twilights*/
     transition: all 0.3s ease;
     margin-top: 5px;
