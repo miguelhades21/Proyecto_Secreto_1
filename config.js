@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['🩵', '⭐​', '💝','🩵', '⭐​'],                        // Heart emojis
-        bears: ['🐻','🐣','⭐​','🐥','🐱​','🖤'],                       // Cute bear emojis
+        hearts: ['🩵','⭐​','💝','🩵','⭐​'],                        // Heart emojis
+        bears: ['🐻','🐣','⭐​','🐥','🐱​','🖤']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "⭐ Yo también te quiero mucho ⭐",
-        message: "¡Ahora tenemos una cita!🎉🩵🤍 Recibirás pronto más info ...",
+        message: "¡Ahora tenemos una cita!🎉🩵🤍",
         emojis: "⭐🩵🤗🤍⭐"  // These will bounce around
     },
 
