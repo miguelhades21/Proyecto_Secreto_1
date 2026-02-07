@@ -161,7 +161,7 @@ body {
     -webkit-appearance: none;
     width: 35px;
     height: 35px;
-    background: linear-gradient(135deg, #ff4757, #ff6b6b);
+    background: linear-gradient(135deg, #2D51A5, #78C0E0);
     border-radius: 50%;
     cursor: pointer;
     box-shadow: 0 2px 10px rgba(14, 14, 82, 0.3);
@@ -275,7 +275,7 @@ h2 {
     font-weight: bold;
     transform: scale(1.2);
     display: inline-block;
-    text-shadow: 2px 2px 4px rgba(255, 71, 87, 0.3);
+    text-shadow: 2px 2px 4px rgba(14, 14, 82, 0.3);
 }
 
 
@@ -285,7 +285,7 @@ h2 {
     font-weight: bold;
     margin: 30px 0;
     animation: bounce var(--bounce-speed) infinite alternate;
-    text-shadow: 2px 2px 4px rgba(255, 71, 87, 0.3);
+    text-shadow: 2px 2px 4px rgba(14, 14, 82, 0.3);
 }
 
 @keyframes subtle-hint {
