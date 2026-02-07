@@ -25,11 +25,11 @@ const CONFIG = {
             text: "¿Te gusto?",                                    // First interaction
             yesBtn: "Sí",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "Ya te dije que significaba me gustas"           // Secret hover message
+            secretAnswer: "Acuérdate de la carta de Sevilla..."           // Secret hover message
         },
         second: {
             text: "¿Cuánto me quieres?​👉​👈​",                          // For the love meter
-            startText: "Así",                                   // Text before the percentage
+            startText: "¿Así?",                                   // Text before the percentage
             nextBtn: "So... 🤓​​"                                         // Text for the next button
         },
         third: {
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://open.spotify.com/intl-es/track/6rWIHEedAYET828v7QY22S?si=9c7db4be942d45a2", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
