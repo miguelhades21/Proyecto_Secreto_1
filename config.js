@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "⭐ Yo también te quiero mucho ⭐",
         message: "¡Ahora tenemos una cita!🎉🩵🤍",
+        title: "⭐ Yo también te quiero mucho ⭐",
         emojis: "⭐🩵🤗🤍⭐"  // These will bounce around
     },
 
